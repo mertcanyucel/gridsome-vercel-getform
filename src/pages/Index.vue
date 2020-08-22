@@ -12,7 +12,8 @@
 
     <p class="home-links">
       <a href="https://gridsome.org/docs/" target="_blank" rel="noopener">Gridsome Docs</a>
-      <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://getform.io/docs/" target="_blank" rel="noopener">Getform Docs</a>
+      <a href="https://github.com/mertcanyucel/gridsome-vercel-getform" target="_blank" rel="noopener">GitHub</a>
     </p>
 
   </Layout>
