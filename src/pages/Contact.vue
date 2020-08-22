@@ -2,15 +2,14 @@
    <Layout>
       <h1>Contact Us</h1>
       <div>
-        
         <br>
         <h2>Getform.io - Gridsome Contact Form Example</h2>
-            <form autocomplete="off" accept-charset="UTF-8" action="https://getform.io/f/e17c8d17-64a2-436f-809c-effafbb33f38" enctype="multipart/form-data" method="POST"  target="_blank">
+            <form accept-charset="UTF-8" action="https://getform.io/f/e17c8d17-64a2-436f-809c-effafbb33f38" enctype="multipart/form-data" method="POST"  target="_blank">
                 <div>
                     <label>Full Name</label>
                     <div>
                         <input style="margin-top: 5px; background-color: #fff; height:35px; width:235px; text-indent: 5px; border-radius:5px;" 
-                        type="text" name="first_name" placeholder="Enter your name and surname" required="required" autocomplete="new-password">
+                        type="text" name="first_name" placeholder="Enter your name and surname" required="required">
                     </div>
                 </div>
                 <br>
@@ -18,7 +17,7 @@
                     <label>Email address</label>
                     <div>
                         <input style="margin-top: 5px;background-color: #fff; height:35px; width:235px; text-indent: 5px; border-radius:5px;" 
-                        type="email" name="email" placeholder="Enter your email address" required="required" autocomplete="off">
+                        type="email" name="email" placeholder="Enter your email address" required="required" >
                     </div>
                 </div>
                 <br>
